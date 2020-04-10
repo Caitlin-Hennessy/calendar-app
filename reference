@@ -1,0 +1,7 @@
+sudo chown -R $USER /usr/local/lib/node_modules
+https://github.com/schnerd/d3-scale-cluster/issues/7
+https://medium.com/jeremy-keeshin/hello-world-for-javascript-with-npm-modules-in-the-browser-6020f82d1072
+browserify -t browserify-css main.js > bundle.js
+https://github.com/cheton/browserify-css#1-how-do-i-include-css-files-located-inside-the-node_modules-folder
+
+mongod --dbpath ~/data/db
